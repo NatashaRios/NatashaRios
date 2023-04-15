@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kevin
+### Hi 👋, I'm Natasha
 #### I'm frontend developer
 
 - 💬 I use daily: **react native, typescript**
